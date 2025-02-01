@@ -1,1 +1,8 @@
 /* Place custom css here. */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap');
+code {
+    font-family: 'Roboto Mono' !important;
+    font-weight: 500;
+    font-size: 2em !important;
+    letter-spacing: -0.01em;
+}
